@@ -5,6 +5,9 @@
   <h1 class="font-mono">
     Hello Nuxt Fonts!
   </h1>
+  <h1 class="font-mono font-medium">
+    Hello Nuxt Fonts!
+  </h1>
   <h1 class="font-normal">
     Hello Nuxt Fonts!
   </h1>
