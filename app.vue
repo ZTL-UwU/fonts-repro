@@ -23,6 +23,9 @@
   <h1 class="font-black">
     Hello Nuxt Fonts!
   </h1>
+  <h1 class="font-extrabold">
+    Hello Nuxt Fonts!
+  </h1>
 </template>
 
 <style scoped>
