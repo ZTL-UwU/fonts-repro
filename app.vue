@@ -1,4 +1,7 @@
 <template>
+  <h1>
+    Hello Nuxt Fonts!
+  </h1>
   <h1 class="font-mono">
     Hello Nuxt Fonts!
   </h1>

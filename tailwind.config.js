@@ -4,6 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
+        sans: ['Geist'],
         mono: ['Geist Mono'],
       },
     },
